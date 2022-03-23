@@ -53,7 +53,7 @@ public class OrderController {
 	//hello mrh
 	//hello f1
     //new adasd
-    // add login
+    // add login,regist
 	//hello master
     @GetMapping("/test2")
     public void test2(){
